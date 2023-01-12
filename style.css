@@ -58,7 +58,7 @@ li {
 .text--red {
     color:#991937;
 }
-section:nth-child(even) {
+section:nth-child(odd) {
     background-color: #f2f2f2;
 }
 .section__title {
