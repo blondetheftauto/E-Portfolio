@@ -144,7 +144,7 @@ nav {
 .about-me__picture--mask {
     width: 100px;
     height: 100px;
-    transform: scale(150%);
+    transform: scale(100%);
     border-radius: 40%;
     overflow: hidden;
     box-shadow: 0 8px 16px rgba(47, 46, 65, 0.5);
